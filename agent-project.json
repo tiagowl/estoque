@@ -1,0 +1,21 @@
+﻿{
+    "project":  {
+                    "created":  "2025-12-18 13:42:07",
+                    "agents":  [
+                                   "product-owner",
+                                   "architect",
+                                   "frontend-dev",
+                                   "backend-dev",
+                                   "devops",
+                                   "tester",
+                                   "ux"
+                               ],
+                    "name":  "Estoque",
+                    "workflows":  [
+                                      "complete-development",
+                                      "feature-development",
+                                      "bug-fixing",
+                                      "code-review"
+                                  ]
+                }
+}
