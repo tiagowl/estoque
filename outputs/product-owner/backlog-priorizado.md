@@ -210,3 +210,4 @@ A priorização foi realizada considerando:
 4. **Testes**: Implementar testes críticos para movimentações de estoque
 5. **Feedback**: Coletar feedback após cada sprint para ajustar prioridades
 
+

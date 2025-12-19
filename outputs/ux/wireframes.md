@@ -609,3 +609,4 @@ Dashboard → Card "Estoque Baixo" → Lista Filtrada de Produtos
 **Versão**: 1.0  
 **Próximos Passos**: Criar protótipos interativos baseados nestes wireframes
 
+

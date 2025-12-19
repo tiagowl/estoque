@@ -653,3 +653,4 @@ Uma user story é considerada "Pronta" quando:
 - [ ] Funciona em desktop (1024px+)
 - [ ] Touch targets adequados
 
+

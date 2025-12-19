@@ -568,3 +568,4 @@ ADRs devem ser revisados:
 **Versão**: 1.0  
 **Status**: Completo - Decisões aprovadas
 
+
